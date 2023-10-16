@@ -28,4 +28,4 @@ The  customized to fit your use-case by modifying the code in the `main.dart` fi
 ### Development by
 
 - Flutter - https://flutter.dev/
-- GetX    - https://pub.dev/packages/get
+- Provider    -[ https://pub.dev/packages/get](https://pub.dev/packages/provider)https://pub.dev/packages/provider
